@@ -1,9 +1,8 @@
-# 3D Car Racing Game 
-
-This project is a thrilling racing game developed in Unity where players can race through dynamic tracks, compete against AI opponents, and strive for victory. This repository contains the source code and assets for a 3D car racing game developed in Unity.
+# Car Racing Game
+This project is a 3D car racing game developed as part of a workshop tutorial. The game allows players to race through various terrains, select from multiple cars and circuits, and experience immersive gameplay with sound effects and a HUD display. The project reflects weekly progress and includes all required features from the assignment brief.
 
 ## **Video of gameplay:** 
-https://drive.google.com/file/d/1CK6mHOhaFlUuTppkuB3AMPAOW__CsQh8/view?usp=sharing
+https://drive.google.com/file/d/1a_5oIZtpN1m16P2cx6AzmNTgnoGZ1QTa/view?usp=sharing
 
 ## Features Implemented
 #### Car Customization
@@ -24,7 +23,7 @@ https://drive.google.com/file/d/1CK6mHOhaFlUuTppkuB3AMPAOW__CsQh8/view?usp=shari
 - Created a series of waypoints for AI cars to follow the designated racing circuit automatically.
 
 #### Sound or FX
-- Integrated sound effects such as engine sounds and tire screeches to enhance the gaming experience.
+- Integrated sound effects such as engine sounds, tire screeches and game end sound to enhance the gaming experience.
 
 #### Main Menu
 - Main menu allows user to choose a car from two options: Red and Blue, and choose a track from two options: Circular and ZigZag.
@@ -44,20 +43,7 @@ A lap system is added and user can only win after the third lap. This is impleme
 
 #### HUD - Display Lap Count
 - A Display allows user to see how many laps out of total 3 have been elapsed. The user wins after the 3rd lap.
-## Video Demo
 
-**Updated demos:**
-
-**Intro of game mechanics:** 
-https://drive.google.com/file/d/1VY7UbAgb04RMNQ4WqHYBFBgfaMn2oAPW/view?usp=drive_link   
-
-**Video of gameplay:** 
-https://drive.google.com/file/d/1CK6mHOhaFlUuTppkuB3AMPAOW__CsQh8/view?usp=sharing
-
-**Initial demo:**
-https://drive.google.com/file/d/1hCSG38Vvd5IGa7sIkvLsyT7sUcZqRdov/view?usp=sharing 
-
-### All requirements of the assignment are met.
-
-## Main Scene
-[scene_inclass.unity file contains the main scene](Assets/MainMenu.unity)
+## Bonus Features Implemented
+### Car Damage System
+- Cars show visible damage when they crash adding realism and challenge. In the video above when AI car crashes it shows visible damage.
